@@ -1,0 +1,4 @@
+test-output/
+phone-server.log
+phone-server-error.log
+.DS_Store
