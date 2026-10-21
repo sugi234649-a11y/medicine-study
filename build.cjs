@@ -1,6 +1,13 @@
 const fs=require('node:fs'),path=require('node:path');
+require('./generate-photo-data.cjs');
 const root=__dirname,dist=path.join(root,'dist');
+const photos=JSON.parse(fs.readFileSync(path.join(root,'photo-catalog.json'),'utf8'));
+const assetPaths=['./','./index.html','./style.css','./app.js','./data.js','./research-data.js','./photo-data.js','./logic.js','./manifest.webmanifest','./icon-192.svg','./icon-512.svg',...photos.map(p=>'./'+p.path)];
+const tag=require('node:crypto').createHash('sha1').update(fs.readFileSync(path.join(root,'photo-data.js'))).digest('hex').slice(0,12);
+let sw=fs.readFileSync(path.join(root,'sw.js'),'utf8').replace(/^const CACHE=.*;$/m,"const CACHE='medicine-52-photos-"+tag+"';").replace(/^const ASSETS=.*;$/m,'const ASSETS='+JSON.stringify(assetPaths)+';');
+fs.writeFileSync(path.join(root,'sw.js'),sw);
 fs.mkdirSync(dist,{recursive:true});
 for(const f of ['index.html','app.js','data.js','research-data.js','photo-data.js','logic.js','style.css','sw.js','manifest.webmanifest','icon-192.svg','icon-512.svg'])fs.copyFileSync(path.join(root,f),path.join(dist,f));
-fs.cpSync(path.join(root,'images'),path.join(dist,'images'),{recursive:true});
+fs.mkdirSync(path.join(dist,'images'),{recursive:true});
+for(const photo of photos)fs.copyFileSync(path.join(root,photo.path),path.join(dist,photo.path));
 console.log('Static app and licensed photos copied to dist.');

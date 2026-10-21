@@ -19,6 +19,7 @@ const files = new Map([
   ['/logic.js', ['logic.js', 'text/javascript; charset=utf-8']],
   ['/style.css', ['style.css', 'text/css; charset=utf-8']]
 ]);
+for(const photo of require('./photo-data.js'))files.set('/'+photo.path,[photo.path,'image/jpeg']);
 const server = http.createServer((req, res) => {
   res.setHeader('X-Content-Type-Options', 'nosniff');
   res.setHeader('Cache-Control', 'no-store');
