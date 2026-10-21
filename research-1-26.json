@@ -1,0 +1,652 @@
+[
+  {
+    "id": 1,
+    "productName": "アムロジピン錠5mg「サワイ」",
+    "strength": "5mg",
+    "manufacturer": "沢井製薬株式会社",
+    "sourceName": "沢井製薬株式会社 製品情報",
+    "sourceUrl": "https://med.sawai.co.jp/preview.php?prodid=1180",
+    "imageSourceUrl": "https://med.sawai.co.jp/preview.php?prodid=1180",
+    "termsUrl": "https://www.sawai.co.jp/use/",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "一部包装販売中止のお知らせ（2026-04）あり。製品全体の販売中止とは異なる。外観変更履歴あり。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "メーカー現行製品ページあり。包装別供給状態は要再確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 2,
+    "productName": "ニフェジピンCR錠20mg「サワイ」",
+    "strength": "20mg",
+    "manufacturer": "沢井製薬株式会社",
+    "sourceName": "沢井製薬株式会社 製品情報",
+    "sourceUrl": "https://med.sawai.co.jp/preview.php?prodid=1098",
+    "imageSourceUrl": "https://med.sawai.co.jp/preview.php?prodid=1098",
+    "termsUrl": "https://www.sawai.co.jp/use/",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "一部包装販売中止（2026-04）・包装変更（2026-09）あり。CR錠という剤形を明記。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "メーカー現行製品ページあり。包装別供給状態は要再確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 3,
+    "productName": "カンデサルタンOD錠4mg「サワイ」",
+    "strength": "4mg",
+    "manufacturer": "沢井製薬株式会社",
+    "sourceName": "沢井製薬株式会社 製品情報",
+    "sourceUrl": "https://med.sawai.co.jp/preview.php?mode=link&prodid=1650",
+    "imageSourceUrl": "https://med.sawai.co.jp/preview.php?mode=link&prodid=1650",
+    "termsUrl": "https://www.sawai.co.jp/use/",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "代表製品はOD錠。通常錠との混同を避ける。一部包装販売中止（2025-04）あり。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "メーカー現行製品ページあり。包装別供給状態は要再確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 4,
+    "productName": "テルミサルタン錠40mg「サワイ」",
+    "strength": "40mg",
+    "manufacturer": "沢井製薬株式会社",
+    "sourceName": "沢井製薬株式会社 製品情報",
+    "sourceUrl": "https://med.sawai.co.jp/preview.php?mode=link&prodid=4582",
+    "imageSourceUrl": "https://med.sawai.co.jp/preview.php?mode=link&prodid=4582",
+    "termsUrl": "https://www.sawai.co.jp/use/",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "通常錠40mgを選定。OD錠20mg/40mgには2026-08販売中止案内があるため代表としない。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "メーカー現行製品ページあり。包装別供給状態は要再確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 5,
+    "productName": "ラシックス錠20mg",
+    "strength": "20mg",
+    "manufacturer": "サノフィ株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2139005F1052_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "2026-04 PMDA情報：製造販売元はサノフィ、発売は東和薬品。旧販売元日医工との区別が必要。利尿・脱水・電解質異常に留意。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 6,
+    "productName": "スピロノラクトン錠25mg「NP」",
+    "strength": "25mg",
+    "manufacturer": "ニプロ株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2133001F1654_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "メーカー製品ページで2026-04限定出荷解除案内を確認。カリウム保持性利尿薬。だるさだけでは原因を判断しない。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 7,
+    "productName": "ビソプロロールフマル酸塩錠2.5mg「サワイ」",
+    "strength": "2.5mg",
+    "manufacturer": "沢井製薬株式会社",
+    "sourceName": "沢井製薬株式会社 製品情報",
+    "sourceUrl": "https://med.sawai.co.jp/preview.php?prodid=1319",
+    "imageSourceUrl": "https://med.sawai.co.jp/preview.php?prodid=1319",
+    "termsUrl": "https://www.sawai.co.jp/use/",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "代表製品の販売名・規格・製造販売元を公式情報で照合。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "メーカー現行製品ページあり。包装別供給状態は要再確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 8,
+    "productName": "ニトロペン舌下錠0.3mg",
+    "strength": "0.3mg",
+    "manufacturer": "日本化薬株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2171018K1039_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "舌下錠の代表例。胸痛時は施設の緊急対応・個別指示に従い連絡し、介護士の判断で追加投与しない。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 9,
+    "productName": "バイアスピリン錠100mg",
+    "strength": "100mg",
+    "manufacturer": "バイエル薬品株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/3399007H1021_1?user=1",
+    "imageSourceUrl": "https://pharma-navi.bayer.jp/bayaspirin/basic-docs",
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "低用量抗血小板目的の代表製品。メーカーに2026-06-19自主回収案内あり。対象ロットと現時点供給は別途確認が必要。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 10,
+    "productName": "クロピドグレル錠75mg「サワイ」",
+    "strength": "75mg",
+    "manufacturer": "沢井製薬株式会社",
+    "sourceName": "沢井製薬株式会社 製品情報",
+    "sourceUrl": "https://med.sawai.co.jp/preview.php?prodid=1707",
+    "imageSourceUrl": "https://med.sawai.co.jp/preview.php?prodid=1707",
+    "termsUrl": "https://www.sawai.co.jp/use/",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "代表製品の販売名・規格・製造販売元を公式情報で照合。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "メーカー現行製品ページあり。包装別供給状態は要再確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 11,
+    "productName": "エリキュース錠2.5mg",
+    "strength": "2.5mg",
+    "manufacturer": "ブリストル・マイヤーズ スクイブ株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/3339004F1029_1?user=1",
+    "imageSourceUrl": "https://www.bmshealthcare.jp/content/dam/buildeasy/apac-commercial/bms-healthcare-jp/ja/documents/products/eliquis/ELIQUIS_Label.pdf",
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "販売元ファイザーと製造販売元BMSを区別。写真候補は包装変更資料で裸錠ではない。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 12,
+    "productName": "イグザレルト錠10mg",
+    "strength": "10mg",
+    "manufacturer": "バイエル薬品株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/3339003F1024_1?user=1",
+    "imageSourceUrl": "https://pharma-navi.bayer.jp/xarelto/basic-docs",
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "代表製品の販売名・規格・製造販売元を公式情報で照合。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 13,
+    "productName": "ワーファリン錠1mg",
+    "strength": "1mg",
+    "manufacturer": "沢井製薬株式会社",
+    "sourceName": "沢井製薬株式会社 製品情報",
+    "sourceUrl": "https://med.sawai.co.jp/preview.php?prodid=4874",
+    "imageSourceUrl": "https://med.sawai.co.jp/preview.php?prodid=4874",
+    "termsUrl": "https://www.sawai.co.jp/use/",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "2026-04製造販売元が沢井製薬となった現行情報を採用。旧エーザイ表記を採用しない。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "メーカー現行製品ページあり。包装別供給状態は要再確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 14,
+    "productName": "ヒルドイドローション0.3%",
+    "strength": "0.3%",
+    "manufacturer": "マルホ株式会社",
+    "sourceName": "マルホ株式会社 製品情報",
+    "sourceUrl": "https://www.maruho.co.jp/medical/products/hirudoid/index.html",
+    "imageSourceUrl": "https://www.maruho.co.jp/medical/articles/hirudoid/lotion_bt150/index.html",
+    "termsUrl": "https://www.maruho.co.jp/websiteuse/",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "ヘパリン類似物質の外用ローション。抗凝固薬ヘパリン注射とは別の教材。クリーム・軟膏・フォーム写真で代用不可。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "メーカー現行製品ページあり。包装別供給状態は要再確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 15,
+    "productName": "ロスバスタチン錠2.5mg「サワイ」",
+    "strength": "2.5mg",
+    "manufacturer": "沢井製薬株式会社",
+    "sourceName": "沢井製薬株式会社 製品情報",
+    "sourceUrl": "https://med.sawai.co.jp/preview.php?prodid=4613",
+    "imageSourceUrl": "https://med.sawai.co.jp/preview.php?prodid=4613",
+    "termsUrl": "https://www.sawai.co.jp/use/",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "代表製品の販売名・規格・製造販売元を公式情報で照合。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "メーカー現行製品ページあり。包装別供給状態は要再確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 16,
+    "productName": "アトルバスタチン錠10mg「サワイ」",
+    "strength": "10mg",
+    "manufacturer": "沢井製薬株式会社",
+    "sourceName": "沢井製薬株式会社 製品情報",
+    "sourceUrl": "https://med.sawai.co.jp/preview.php?prodid=1340",
+    "imageSourceUrl": "https://med.sawai.co.jp/preview.php?prodid=1340",
+    "termsUrl": "https://www.sawai.co.jp/use/",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "代表製品の販売名・規格・製造販売元を公式情報で照合。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "メーカー現行製品ページあり。包装別供給状態は要再確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 17,
+    "productName": "メトグルコ錠250mg",
+    "strength": "250mg",
+    "manufacturer": "住友ファーマ株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/3962002F2027_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "代表製品の販売名・規格・製造販売元を公式情報で照合。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 18,
+    "productName": "ジャヌビア錠50mg",
+    "strength": "50mg",
+    "manufacturer": "MSD株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/3969010F1034_2?user=1",
+    "imageSourceUrl": "https://www.msdconnect.jp/products/januvia/download/",
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "単独では低血糖リスクは比較的低いがゼロではない。インスリン・SU薬等併用でリスク増加。MSD製品Q&Aで確認。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 19,
+    "productName": "アマリール1mg錠",
+    "strength": "1mg",
+    "manufacturer": "サノフィ株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/3961008F1020_1?user=1",
+    "imageSourceUrl": "https://pro.campus.sanofi/jp/products/amaryl/1mg-html-873512451",
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "代表製品の販売名・規格・製造販売元を公式情報で照合。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 20,
+    "productName": "ジャディアンス錠10mg",
+    "strength": "10mg",
+    "manufacturer": "日本ベーリンガーインゲルハイム株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/3969023F1023_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "10mgには2型糖尿病以外に慢性心不全・慢性腎臓病の適応もある。血糖の薬だけと断定しない。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 21,
+    "productName": "ノボラピッド注 フレックスタッチ",
+    "strength": "100単位/mL・1筒3mL（300単位）",
+    "manufacturer": "ノボ ノルディスク ファーマ株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2492415G1031_1?user=1",
+    "imageSourceUrl": "https://www.info.pmda.go.jp/downfiles/guide/ph/620023_2492415G1031_1_00G.pdf",
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "インスリンというカテゴリーを、この超速効型インスリンアスパルトの代表製剤と区別。フレックスペン、混合型、持効型で代用しない。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 22,
+    "productName": "カロナール錠200",
+    "strength": "200mg",
+    "manufacturer": "あゆみ製薬株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1141007F1063_5?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "前回投与時刻を確認し処方・個別指示・看護師指示に従う。4時間以上は個別指示の例としてのみ扱い、全患者共通ルールとしない。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 23,
+    "productName": "ロキソニン錠60mg",
+    "strength": "60mg",
+    "manufacturer": "第一三共株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1149019C1149_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "医療用ロキソニン錠60mg。一般用ロキソニンSや配合鎮痛薬の写真で代用不可。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 24,
+    "productName": "セレコックス錠100mg",
+    "strength": "100mg",
+    "manufacturer": "ヴィアトリス製薬合同会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1149037F1020_2?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "現行PMDAでヴィアトリス製薬合同会社を確認。検索でdev21サブドメインの写真ページが出たが正式公開版の確認が未了のため写真候補採用を保留。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 25,
+    "productName": "リリカOD錠25mg",
+    "strength": "25mg",
+    "manufacturer": "ヴィアトリス製薬合同会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1190017F1029_3?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "現行PMDAでヴィアトリス製薬合同会社を確認。検索でdev21サブドメインの写真ページが出たが正式公開版確認未了。2026-03公式供給一覧に通常出荷記載。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  },
+  {
+    "id": 26,
+    "productName": "トラマールOD錠25mg",
+    "strength": "25mg",
+    "manufacturer": "日本新薬株式会社",
+    "sourceName": "PMDA 医療用医薬品情報",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1149038F1024_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "not-authorized-no-copy",
+    "checkedDate": "2026-10-13",
+    "notes": [
+      "代表製品の販売名・規格・製造販売元を公式情報で照合。",
+      "画像の公開アプリへの保存・再掲載許諾は確認できず、取得・組込なし。写真候補URLは参照記録であり画像利用許諾ではない。",
+      "現行の公式掲載は確認したが、全包装の現在の販売・在庫・出荷状態の網羅的保証はしていない。"
+    ],
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer",
+      "officialListing"
+    ],
+    "saleStatus": "PMDA現行掲載あり。販売・供給の継続は別途確認",
+    "clinicalReviewStatus": "公式添文・患者向ガイドへの参照を確保。全観察項目の専門職による最終監修は未実施。"
+  }
+]

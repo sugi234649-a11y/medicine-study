@@ -8,6 +8,14 @@ const files = new Map([
   ['/index.html', ['index.html', 'text/html; charset=utf-8']],
   ['/app.js', ['app.js', 'text/javascript; charset=utf-8']],
   ['/data.js', ['data.js', 'text/javascript; charset=utf-8']],
+  ['/research-data.js', ['research-data.js', 'text/javascript; charset=utf-8']],
+  ['/photo-data.js', ['photo-data.js', 'text/javascript; charset=utf-8']],
+  ['/sw.js', ['sw.js', 'text/javascript; charset=utf-8']],
+  ['/manifest.webmanifest', ['manifest.webmanifest', 'application/manifest+json']],
+  ['/icon-192.svg', ['icon-192.svg', 'image/svg+xml']],
+  ['/icon-512.svg', ['icon-512.svg', 'image/svg+xml']],
+  ['/images/heparinoid-nipro.jpg', ['images/heparinoid-nipro.jpg', 'image/jpeg']],
+  ['/images/loxonin-60mg.jpg', ['images/loxonin-60mg.jpg', 'image/jpeg']],
   ['/logic.js', ['logic.js', 'text/javascript; charset=utf-8']],
   ['/style.css', ['style.css', 'text/css; charset=utf-8']]
 ]);

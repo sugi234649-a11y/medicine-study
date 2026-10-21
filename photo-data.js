@@ -1,0 +1,10 @@
+/* Photo provenance is independent of the learning summaries. */
+(function(root){
+  const sources=[
+    {id:14,productName:'ヘパリン類似物質ローション0.3%「ニプロ」',strength:'0.3% / 50g',manufacturer:'ニプロ株式会社',path:'images/heparinoid-nipro.jpg',view:'ボトル（50g）',author:'Hanabishi',license:'CC0 1.0',licenseUrl:'https://creativecommons.org/publicdomain/zero/1.0/',sourceUrl:'https://commons.wikimedia.org/wiki/File:Heparinoid_lotion.jpg',officialUrl:'https://rctportal.mhlw.go.jp/drug?id=00063344&sub=002',takenDate:'2026-02-28',appearanceNote:'ボトル正面の代表写真です。裏面や他の包装は収録していません。',sha1:'342d81b30e1ac5daf03a4acee5352b3e990bad65'},
+    {id:23,productName:'ロキソニン錠60mg',strength:'60mg',manufacturer:'第一三共株式会社',path:'images/loxonin-60mg.jpg',view:'PTP表・裏（錠剤の裸錠裏面は未収録）',author:'Yoshi 2012',license:'CC BY-SA 4.0',licenseUrl:'https://creativecommons.org/licenses/by-sa/4.0/',sourceUrl:'https://commons.wikimedia.org/wiki/File:ロキソニン錠60mg.jpg',officialUrl:'https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1149019C1149_1?user=1',takenDate:'2015-01-18',appearanceNote:'2015年撮影の代表例です。現在の包装と異なる可能性があります。',sha1:'8641aa4a98d261762ca78e24fa4368a496bce815'}
+  ].map(x=>({...x,usageStatus:'approved',permissionEvidence:x.sourceUrl,checkedDate:'2026-10-21',changes:'画像ファイルは無加工。画面内で縮小表示。'}));
+  if(root.MED_DATA){for(const photo of sources){const d=root.MED_DATA.drugs.find(d=>d.id===photo.id);Object.assign(d,{representativeProduct:photo.productName,strength:photo.strength,manufacturer:photo.manufacturer,imageUsageStatus:'approved',imageFiles:[photo],saleStatus:'公式製品情報掲載を確認（2026-10-21）。現在の在庫・供給状況は未確認。',researchNotes:'写真と販売名・規格・製造販売元を照合。'+photo.appearanceNote,clinicalVerification:'写真の利用条件と代表製品の照合：2026-10-21。観察項目全体の専門職監修は未完了。'});d.imageSources=[{sourceName:'Wikimedia Commons（再利用条件確認済みの写真）',sourceUrl:photo.sourceUrl,termsUrl:photo.licenseUrl,imageUsageStatus:photo.license,checkedDate:photo.checkedDate},{sourceName:'製品照合資料',sourceUrl:photo.officialUrl,imageUsageStatus:'製品情報の参照のみ',checkedDate:photo.checkedDate}];}}
+  root.MED_PHOTOS=sources;
+  if(typeof module!=='undefined')module.exports=sources;
+})(typeof window!=='undefined'?window:globalThis);

@@ -1,4 +1,5 @@
-const CACHE='medicine-52-v1';
-self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(['./','./index.html','./style.css','./app.js','./data.js','./logic.js','./manifest.webmanifest','./icon-192.svg','./icon-512.svg']))));
-self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
-self.addEventListener('fetch',e=>{if(e.request.method!=='GET')return;e.respondWith(caches.match(e.request).then(c=>c||fetch(e.request).then(r=>{const copy=r.clone();caches.open(CACHE).then(cache=>cache.put(e.request,copy));return r}).catch(()=>caches.match('./index.html')))});
+const CACHE='medicine-52-photos-v2-20261021';
+const ASSETS=['./','./index.html','./style.css','./app.js','./data.js','./research-data.js','./photo-data.js','./logic.js','./manifest.webmanifest','./icon-192.svg','./icon-512.svg','./images/heparinoid-nipro.jpg','./images/loxonin-60mg.jpg'];
+self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
+self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('medicine-52-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
+self.addEventListener('fetch',e=>{if(e.request.method!=='GET'||new URL(e.request.url).origin!==self.location.origin)return;e.respondWith(caches.open(CACHE).then(async c=>{const cached=await c.match(e.request);try{const r=await fetch(e.request);if(r.ok)await c.put(e.request,r.clone());return r;}catch{return cached||(e.request.mode==='navigate'?await c.match('./index.html'):Response.error());}}));});

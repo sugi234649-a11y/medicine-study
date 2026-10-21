@@ -1,0 +1,490 @@
+[
+  {
+    "id": 27,
+    "productName": "酸化マグネシウム錠330mg「ケンエー」",
+    "strength": "330mg",
+    "manufacturer": "健栄製薬株式会社",
+    "sourceName": "製薬企業公式サイト",
+    "sourceUrl": "https://www.kenei-pharm.com/medical/products/3262/",
+    "imageSourceUrl": "https://www.kenei-pharm.com/cms/wp-content/uploads/2020/08/MG_330tablet_PTP10_24-1.jpg",
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "制酸剤・緩下剤。高マグネシウム血症の注意資料リンクあり。PTP・錠剤写真確認。2026年印字色調変更案内。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 28,
+    "productName": "センノシド錠12mg「サワイ」",
+    "strength": "12mg",
+    "manufacturer": "沢井製薬株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2354003F2367_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "便秘症。腹痛、下痢、脱水、電解質異常に注意。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 29,
+    "productName": "ラキソベロン内用液0.75%",
+    "strength": "0.75%",
+    "manufacturer": "帝人ファーマ株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/470310_2359005S1240_1_09",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "便秘等。腹痛、下痢、嘔吐、腹部膨満を観察。点眼液ではない。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 30,
+    "productName": "アミティーザカプセル24μg",
+    "strength": "24μg",
+    "manufacturer": null,
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.info.pmda.go.jp/downfiles/ph/GUI/671450_2359006M1025_3_00G.pdf",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "検索結果の患者向けガイドで規格・悪心・下痢を確認。直接取得エラー。現行製造販売元の再確認が必要。",
+    "verifiedFields": [
+      "productName",
+      "strength"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 31,
+    "productName": "リンゼス錠0.25mg",
+    "strength": "0.25mg",
+    "manufacturer": "アステラス製薬株式会社",
+    "sourceName": "製薬企業公式サイト",
+    "sourceUrl": "https://www.astellas.com/jp/patient-product/lnz",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "公式患者向け製品ページを確認。効能・観察事項は添付文書再確認が必要。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 32,
+    "productName": "ロペミンカプセル1mg",
+    "strength": "1mg",
+    "manufacturer": "帝國製薬株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2319001C2060_2?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "現行PMDAで製造販売元を確認。旧ヤンセン情報との差異に注意。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 33,
+    "productName": "タケプロンOD錠15",
+    "strength": "15mg",
+    "manufacturer": "T's製薬株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.info.pmda.go.jp/psearch/html/interview_form_list.pdf",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "PMDAリストで製造販売元を確認。販売は武田薬品工業。現行個別添付文書は追加確認が必要。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 34,
+    "productName": "ガスターD錠20mg",
+    "strength": "20mg",
+    "manufacturer": "LTLファーマ株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2325003F3035_2?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "ファモチジン。2026-09-08付添付文書掲載。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 35,
+    "productName": "ガスモチン錠5mg",
+    "strength": "5mg",
+    "manufacturer": null,
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/400093_2399010B1034_1_13",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "慢性胃炎に伴う胸やけ・悪心・嘔吐等。2025年12月添付文書検索結果。製造販売元は追加確認。",
+    "verifiedFields": [
+      "productName",
+      "strength"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 36,
+    "productName": "ナウゼリン錠10",
+    "strength": "10mg",
+    "manufacturer": "協和キリン株式会社",
+    "sourceName": "厚生労働省 臨床研究情報ポータル",
+    "sourceUrl": "https://rctportal.mhlw.go.jp/drug?id=00005940&sub=002",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "消化管運動改善剤。PMDA2025-05-20更新リストで製造販売元確認。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 37,
+    "productName": "アリセプトD錠5mg",
+    "strength": "5mg",
+    "manufacturer": "エーザイ株式会社",
+    "sourceName": "製薬企業公式サイト",
+    "sourceUrl": "https://medical.eisai.jp/products/art/art_dt5",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "ドネペジル。アルツハイマー型・レビー小体型認知症の症状進行抑制。病態そのものの進行抑制を意味しない。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 38,
+    "productName": "メマリーOD錠20mg",
+    "strength": "20mg",
+    "manufacturer": "第一三共株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1190018F1023_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "メマンチン塩酸塩。個別ページで製品・会社を確認。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 39,
+    "productName": "リバスタッチパッチ18mg",
+    "strength": "18mg",
+    "manufacturer": null,
+    "sourceName": "厚生労働省 臨床研究情報ポータル",
+    "sourceUrl": "https://rctportal.mhlw.go.jp/drug?id=00059690&sub=004",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "リバスチグミン貼付剤。悪心・嘔吐等。旧承認資料は小野薬品だが現行会社は未確認。",
+    "verifiedFields": [
+      "productName",
+      "strength"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 40,
+    "productName": "セロクエル25mg錠",
+    "strength": "25mg",
+    "manufacturer": "LTLファーマ株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1179042C1023_3?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "統合失調症。血糖上昇の警告あり。口渇・多飲・多尿等の異常を報告。認知症の不穏一般に対する承認と扱わない。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 41,
+    "productName": "リスパダール錠1mg",
+    "strength": "1mg",
+    "manufacturer": "ヤンセンファーマ株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.info.pmda.go.jp/psearch/PackinsSearch?count=1000&effect=117",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "現行PMDAリストで製造販売元と2025-01-08更新を確認。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 42,
+    "productName": "ジプレキサ錠2.5mg",
+    "strength": "2.5mg",
+    "manufacturer": null,
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/450900_1179044F1029_2_01",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "検索結果の2024年11月添付文書で規格・血糖の警告を確認したが直接URLは更新によりエラー。現行会社・URL要再確認。",
+    "verifiedFields": [
+      "productName",
+      "strength"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 43,
+    "productName": "デパス錠0.5mg",
+    "strength": "0.5mg",
+    "manufacturer": null,
+    "sourceName": "製薬企業公式サイト",
+    "sourceUrl": "https://patients.tanabe-pharma.com/product/dep/",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "公式サイトで販売会社・規格を確認（製造販売元は添付文書で追加照合）。高齢者のふらつき・眠気について公式Q&Aあり。",
+    "verifiedFields": [
+      "productName",
+      "strength"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 44,
+    "productName": "レンドルミン錠0.25mg",
+    "strength": "0.25mg",
+    "manufacturer": "日本ベーリンガーインゲルハイム株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1124009F1223_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "ブロチゾラム。普通錠とD錠を混同しない。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 45,
+    "productName": "マイスリー錠5mg",
+    "strength": "5mg",
+    "manufacturer": "アステラス製薬株式会社",
+    "sourceName": "製薬企業公式サイト",
+    "sourceUrl": "https://www.astellas.com/jp/patient-product/mys",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "公式患者向けページ確認。入眠剤。マイスタンとの名称誤認注意をPMDAが掲示。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 46,
+    "productName": "ベルソムラ錠15mg",
+    "strength": "15mg",
+    "manufacturer": "MSD株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/bookSearch/01/14987185808795",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "不眠症治療薬。傾眠・疲労・睡眠時随伴症等を観察。2026年3月改訂資料。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 47,
+    "productName": "メネシット配合錠100",
+    "strength": "レボドパ100mg／カルビドパ10mg相当",
+    "manufacturer": "オルガノン株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1169101F1146_3?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "パーキンソン病・パーキンソン症候群。レボドパ配合剤は製品ごと配合成分が異なる。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 48,
+    "productName": "チラーヂンS錠50μg",
+    "strength": "50μg",
+    "manufacturer": "あすか製薬株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/iyakuDetail/ResultDataSetPDF/470007_2431004F1056_1_06",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "レボチロキシンナトリウム水和物。甲状腺ホルモン製剤。単位μgに注意。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 49,
+    "productName": "プレドニン錠5mg",
+    "strength": "5mg",
+    "manufacturer": null,
+    "sourceName": "製薬企業公式サイト",
+    "sourceUrl": "https://med.shionogi.co.jp/products/medicine/predonine-tablets.html",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "塩野義の公式製品ページ確認。2026-03-23使用上注意改訂あり。製造販売元・販売元区分追加確認。",
+    "verifiedFields": [
+      "productName",
+      "strength"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 50,
+    "productName": "サワシリン錠250",
+    "strength": "250mg（力価）",
+    "manufacturer": "LTLファーマ株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/6131001C1210_2",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "アモキシシリン。錠250とカプセル250は別剤形。写真の相互代用不可。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 51,
+    "productName": "アズノール軟膏0.033%",
+    "strength": "0.033%",
+    "manufacturer": "日本新薬株式会社",
+    "sourceName": "PMDA",
+    "sourceUrl": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2649716M1042_1?user=1",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "湿疹、熱傷等によるびらん・潰瘍。皮膚刺激感や接触性皮膚炎を観察。眼科用ではない。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  },
+  {
+    "id": 52,
+    "productName": "モビコール配合内用剤LD",
+    "strength": "LD",
+    "manufacturer": "EAファーマ株式会社",
+    "sourceName": "製薬企業公式サイト",
+    "sourceUrl": "https://medical.eisai.jp/products/mvc/mvc_ld",
+    "imageSourceUrl": null,
+    "termsUrl": "https://www.pmda.go.jp/files/000271952.pdf",
+    "imageUsageStatus": "未許諾・転載しない",
+    "notes": "慢性便秘症治療薬。2026-09-03一部製品自主回収案内あり。LDとHDの写真・規格を混同しない。",
+    "verifiedFields": [
+      "productName",
+      "strength",
+      "manufacturer"
+    ],
+    "saleStatus": "販売・供給状況未確認",
+    "checkedDate": "2026-10-13"
+  }
+]
