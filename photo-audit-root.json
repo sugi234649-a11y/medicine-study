@@ -1,0 +1,74 @@
+[
+  {
+    "id": 22,
+    "productName": "カロナール錠（用量要選定）",
+    "decision": "hold",
+    "reason": "出典写真はトミロン、アルジオキサ、カロナール等が一緒に写り、個別薬として安全に見分けられない。写真の切り抜き・加工で問題を回避せず、採用しない。",
+    "sourcesReviewed": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:トミロン・アリジオキサ・カロナール.jpg",
+        "findings": "CC BY-SA 4.0の写真だが複数薬が混在。カロナール200の文字は見えるものの他薬との同時表示が紛らわしい。"
+      }
+    ],
+    "checkedDate": "2026-10-23"
+  },
+  {
+    "id": 25,
+    "productName": "リリカカプセル75mg",
+    "decision": "approved",
+    "reason": "2013年の原画像で製品名・75mg・カプセルのPTP表裏を目視確認。撮影当時のファイザー製品とPMDA承認資料、現在のヴィアトリス製品を別々に照合。CC BY-SA 3.0、SHA-1一致。既存の代表製品リリカOD錠25mgとは剤形・規格が異なる代表写真として明記。",
+    "sourcesReviewed": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:LYRICA75mg.png",
+        "findings": "Sanana撮影、2013-08-09、CC BY-SA 3.0。原画像SHA-1一致。"
+      },
+      {
+        "url": "https://www.pmda.go.jp/drugs/2013/P201300010/left.html",
+        "findings": "撮影当時の承認取得者とリリカカプセル25/75/150mgを確認。"
+      },
+      {
+        "url": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1190017F1029_3?user=1",
+        "findings": "現行製品の製造販売元と製品規格を確認。"
+      }
+    ],
+    "checkedDate": "2026-10-23"
+  },
+  {
+    "id": 40,
+    "productName": "セロクエル25mg錠",
+    "decision": "hold",
+    "reason": "候補画像にはセロクエル100mgと読めるが、撮影日が不明で製造販売元も画像から確定できない。撮影者・メーカー・包装時点の対応を確認できないため採用しない。",
+    "sourcesReviewed": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Seroquel100.jpg",
+        "findings": "PD-selfと記録された画像。100mg表示あり。アップロード日は撮影日を証明しない。メーカーの帰属も不確か。"
+      },
+      {
+        "url": "https://www.ltl-pharma.com/common/pdf/SEQ19058A01.pdf",
+        "findings": "現行販売の承継情報は確認したが、画像の撮影当時のメーカー証拠にはならない。"
+      }
+    ],
+    "checkedDate": "2026-10-23"
+  },
+  {
+    "id": 43,
+    "productName": "デパス錠1mg",
+    "decision": "approved",
+    "reason": "原画像のPTP表裏でデパス1mg表示を目視確認。2013年撮影画像、CC BY-SA 3.0。撮影当時の田辺三菱製薬と現行の田辺ファーマを別資料で照合。原本SHA-1一致。",
+    "sourcesReviewed": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:DEPAS1mg.jpg",
+        "findings": "Sanana撮影、2013-08-13、CC BY-SA 3.0。原本SHA-1一致。"
+      },
+      {
+        "url": "https://www.pmda.go.jp/files/000148209.pdf",
+        "findings": "PMDA掲載資料でデパス錠1mgの当時の田辺三菱製薬を照合。"
+      },
+      {
+        "url": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1179025C1054_2?user=1",
+        "findings": "現行のデパス錠規格および田辺ファーマを照合。"
+      }
+    ],
+    "checkedDate": "2026-10-23"
+  }
+]

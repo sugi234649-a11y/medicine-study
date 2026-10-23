@@ -1,0 +1,246 @@
+[
+  {
+    "id": 21,
+    "searchQueries": [
+      "ノボラピッド フレックスタッチ 製品 写真 著作権 ノボ",
+      "site:commons.wikimedia.org NovoRapid FlexTouch",
+      "site:commons.wikimedia.org ノボラピッド"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://pro.novonordisk.co.jp/download-materials.html",
+        "kind": "official-photo-library",
+        "findings": "糖尿病関連製品写真資料あり。公開アプリへの転載許可ではない。"
+      },
+      {
+        "url": "https://www.novonordisk.co.jp/website-privacy-policy.html",
+        "kind": "official-terms",
+        "findings": "コンテンツは著作権保護。製品名・ロゴ等の使用には書面による事前同意が必要。"
+      },
+      {
+        "url": "https://www.novonordisk.co.jp/content/dam/nncorp/jp/ja/products/how-to/injection/pdfs/FlexTouch_InstructionManual_Pt._202001.pdf",
+        "kind": "official-product",
+        "findings": "ノボラピッド注フレックスタッチ300単位3mLを確認。説明図はトレシーバのイラストを起用と明記。写真の代用にしない。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Category:Novorapid",
+        "kind": "commons-category",
+        "findings": "欧文ラベルのペンやノルウェー撮影写真等。日本承認製品・国内包装の一致を確認できないため不採用。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "国内製品に一致し公開転載可能な実物写真を確認できなかった。図や海外ペンは代用しない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 24,
+    "searchQueries": [
+      "セレコックス 製品写真 ヴィアトリス 著作権",
+      "site:commons.wikimedia.org Celecox Japan",
+      "セレコックス ファイザー アステラス ヴィアトリス 製造販売 移管 2021",
+      "site:viatris-e-channel.com 利用規約 著作権"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://dev21.viatris-e-channel.com/viatris-products/di/branded/syllabary/サ",
+        "kind": "official-domain-photo-search-result",
+        "findings": "セレコックス100mg・200mgの製剤写真あり。ただしdev21環境で正式版・転載許諾未確認。公式画像は採用しない。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:セレコックス錠100mg.jpg",
+        "kind": "commons-file",
+        "findings": "日本のセレコックス錠100mg写真。投稿者Konset1の自己作品、2013-06-20、CC BY-SA3.0。説明文はファイザー製とするが公式履歴では当時製造販売はアステラス、販売提携ファイザー。目視確認前。"
+      },
+      {
+        "url": "https://www.viatris-e-channel.com/viatris-products/di/detail/assetfile/Celecox_Tab_IF_2510.pdf",
+        "kind": "official-product-history",
+        "findings": "2021年8月にアステラス（販売提携ファイザー）からヴィアトリス製薬株式会社（現合同会社）へ製造販売移管と明記。"
+      },
+      {
+        "url": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1149037F1020_2?user=1",
+        "kind": "official-current-product",
+        "findings": "100mg/200mg、現製造販売元ヴィアトリス製薬合同会社。"
+      }
+    ],
+    "decision": "approved",
+    "reason": "元画像を取得し、100mg表示・PTPの現物を目視確認。画像内のアステラス表示を公式製品履歴と照合。CC BY-SA 3.0と原本SHA-1を確認。",
+    "candidate": {
+      "productName": "セレコックス錠100mg",
+      "strength": "100mg",
+      "photographedManufacturer": "アステラス製薬株式会社（製造販売、撮影当時。販売提携：ファイザー株式会社）",
+      "currentManufacturer": "ヴィアトリス製薬合同会社",
+      "author": "Konset1",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:セレコックス錠100mg.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/8/83/%E3%82%BB%E3%83%AC%E3%82%B3%E3%83%83%E3%82%AF%E3%82%B9%E9%8C%A0100mg.jpg",
+      "date": "2013-06-20",
+      "hash": "c7ab5d36f14dcd8eaed67a02dfab4075db705fdf",
+      "visualVerification": "verified-parent"
+    },
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 26,
+    "searchQueries": [
+      "トラマール OD錠 製品写真 日本新薬 著作権",
+      "site:commons.wikimedia.org Tramal Japan"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/1149038F1024_1?user=1",
+        "kind": "official-product",
+        "findings": "トラマールOD25/50mg、日本新薬製造販売を確認。"
+      },
+      {
+        "url": "https://www.nippon-shinyaku.co.jp/news/news.php?id=268",
+        "kind": "official-photo",
+        "findings": "写真ダウンロードありだが2013年カプセル25/50mgの資料。OD錠写真ではない。"
+      },
+      {
+        "url": "https://www.nippon-shinyaku.co.jp/attention/index.php",
+        "kind": "official-terms",
+        "findings": "個人的非営利利用のダウンロードのみ。変更・更なる複製は禁止。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tramal50mgcapsules.JPG",
+        "kind": "commons-file",
+        "findings": "フィンランド語説明の海外50mgカプセル。国内OD錠と異なり不採用。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Tramal_200mg_pills.JPG",
+        "kind": "commons-file",
+        "findings": "海外200mg徐放錠。国内OD25mgの代用不可。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "国内の製品・剤形・規格と転載条件の揃った実物写真を確認できず。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 41,
+    "searchQueries": [
+      "リスパダール 錠1mg 製品写真 ヤンセン 著作権",
+      "site:commons.wikimedia.org Risperdal Japan",
+      "site:commons.wikimedia.org Risperdal.jpg 1mg"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.jnj.com/innovativemedicine/japan/for-patients/products",
+        "kind": "official-product",
+        "findings": "日本のリスパダール錠1mg等を掲載。"
+      },
+      {
+        "url": "https://www.jnj.com/innovativemedicine/japan/terms-of-use",
+        "kind": "official-terms",
+        "findings": "非営利の私的利用のダウンロードのみ。改変・更なる複製不可。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Risperdal.jpg",
+        "kind": "commons-file",
+        "findings": "Hanabishi自己作品、2020-03-11、CC0。説明文は日本語リスペリドン。規格をテキストから確認できず、親による画像照合待ち。"
+      },
+      {
+        "url": "https://www.info.pmda.go.jp/psearch/PackinsSearch?count=1000&effect=117",
+        "kind": "official-product",
+        "findings": "リスパダール錠1mg等、製造販売元ヤンセンファーマ。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "実物を目視したところ、写真はリスパダール内用液1mg/mLの0.5mL分包。教材の代表製品はリスパダール錠1mgで剤形が異なるため不採用。",
+    "unverifiedLead": {
+      "source": "https://commons.wikimedia.org/wiki/File:Risperdal.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Risperdal.jpg",
+      "author": "Hanabishi",
+      "date": "2020-03-11",
+      "license": "CC0 1.0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "visualVerification": "verified-mismatch",
+      "strength": "1mg/mL液剤、0.5mL分包"
+    },
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 42,
+    "searchQueries": [
+      "ジプレキサ 錠2.5mg 製品写真 公式",
+      "site:commons.wikimedia.org Zyprexa Japan",
+      "site:cheplapharm.jp ジプレキサ 写真 利用"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Zyprexa-Zydis_JPN.jpg",
+        "kind": "commons-file",
+        "findings": "日本販売ジプレキサザイディス錠10mg、PHENTANYL自己作品、2010-10-13、権利者によるpublic domain。ファイル履歴にColor copyeditあり。"
+      },
+      {
+        "url": "https://www.cheplapharm.jp/medical-professionals/product-details/ジプレキサザイディス錠10mg/",
+        "kind": "official-product-photo",
+        "findings": "10mgオランザピン凍結乾燥製剤、70錠/350錠ブリスター。製剤写真ありだが公式画像は転載しない。"
+      },
+      {
+        "url": "https://www.cheplapharm.jp/jp-media/user_upload/chepla_succession_pack.pdf",
+        "kind": "official-product-history",
+        "findings": "2024-11-01に日本イーライリリーからチェプラファームへ承継、包装変更。ザイディス10mgも対象。"
+      },
+      {
+        "url": "https://www.cheplapharm.jp/copyright/",
+        "kind": "official-terms",
+        "findings": "書面承諾なく公表・配布・配信・転送・再利用・再掲載を禁止。Commons自己撮影とは別の条件。"
+      }
+    ],
+    "decision": "approved",
+    "reason": "原画像でジプレキサザイディス錠10mgとPTPを目視確認。2010年旧包装。教材の通常錠2.5mgとは別の代表製品として剤形・規格を明記。2024年承継資料とPD-self、SHA-1一致を確認。",
+    "candidate": {
+      "productName": "ジプレキサザイディス錠10mg",
+      "strength": "10mg",
+      "form": "口腔内崩壊錠（凍結乾燥製剤）",
+      "photographedManufacturer": "日本イーライリリー株式会社",
+      "currentManufacturer": "チェプラファーム株式会社",
+      "author": "PHENTANYL",
+      "license": "Public domain (PD-self)",
+      "licenseURL": "https://commons.wikimedia.org/wiki/Template:PD-self",
+      "source": "https://commons.wikimedia.org/wiki/File:Zyprexa-Zydis_JPN.jpg",
+      "original": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Zyprexa-Zydis_JPN.jpg",
+      "date": "2010-10-13",
+      "hash": "502a0b3b8a8d00cd65fd5bf66cc99de6a3d5b552",
+      "hashAlgorithm": "SHA-1",
+      "priorModification": "2010-10-17 Color copyedit in file history",
+      "visualVerification": "verified-parent"
+    },
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 46,
+    "searchQueries": [
+      "ベルソムラ 錠15mg 製品写真 MSD 著作権",
+      "site:commons.wikimedia.org ベルソムラ",
+      "site:commons.wikimedia.org Belsomra mg"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.msd.co.jp/news/product-news-20240701-2/",
+        "kind": "official-product-history",
+        "findings": "2024-10-01に販売・情報提供を第一三共へ移管。製造販売元MSDに変更なし。"
+      },
+      {
+        "url": "https://www.msdconnect.jp/wp-content/uploads/sites/5/2024/08/other_belsomra_20240801.pdf",
+        "kind": "official-package-photo",
+        "findings": "旧MSDデザインと第一三共デザインの包装写真資料あり。転載許諾としては扱わない。"
+      },
+      {
+        "url": "https://www.daiichisankyo.co.jp/terms_and_condition/",
+        "kind": "official-terms",
+        "findings": "許可のない複製・転用・再掲載等を禁止。営利非営利・イントラネットを問わない。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Category:Suvorexant",
+        "kind": "commons-category",
+        "findings": "日本承認製品の実物写真を確認できなかった。分子図等は使用しない。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "国内写真資料はあるが公開アプリへの転載許諾未確認。Commonsで適合写真なし。",
+    "checkedDate": "2026-10-21"
+  }
+]

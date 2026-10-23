@@ -1,0 +1,355 @@
+[
+  {
+    "id": 27,
+    "productName": "酸化マグネシウム錠330mg「ケンエー」",
+    "searchQueries": [
+      "酸化マグネシウム ケンエー 製品 写真 著作権",
+      "site:commons.wikimedia.org Magmitt"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.kenei-pharm.com/medical/products/3262/",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "メーカー公式に330mg錠・PTP写真あり。2025年印字色調変更、2026年3月案内もあり。公開アプリに転載する許諾は確認できない。"
+      },
+      {
+        "url": "https://www.kenei-pharm.com/tepika/siteinfo/",
+        "kind": "terms-related-product-subsite",
+        "findings": "健栄の手ピカジェル用規約は事前文書許諾を要求。ただし医療用サイトへの適用は未確定のため、この規約だけで当該写真の利用条件を断定しない。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 28,
+    "productName": "センノシド錠12mg「サワイ」",
+    "searchQueries": [
+      "センノシド サワイ 製品 写真 利用",
+      "site:commons.wikimedia.org センノシド"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://med.sawai.co.jp/php/index/preview_photo.php?arg=1&img1=pr3_125.jpg&img2=pr4_125.jpg&img3=pr5_125.jpg&img4=pr6_125.jpg&prodname=%E3%82%BB%E3%83%B3%E3%83%8E%E3%82%B7%E3%83%89%E9%8C%A012mg%E3%80%8C%E3%82%B5%E3%83%AF%E3%82%A4%E3%80%8D",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "沢井公式の当該12mg写真ページを発見。公開アプリへの再配信許諾は未確認。"
+      },
+      {
+        "url": "https://www.sawai.co.jp/use/",
+        "kind": "terms",
+        "findings": "写真等を含むコンテンツが著作権の対象と表示。公開学習アプリに再配信できる明示許諾は確認できない。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 29,
+    "productName": "ラキソベロン内用液0.75%",
+    "searchQueries": [
+      "ラキソベロン内用液0.75% 帝人 製品情報",
+      "site:commons.wikimedia.org ラキソベロン"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://medical.teijin-pharma.co.jp/content/dam/teijin-medical-web/sites/documents/product/iyaku/la_lat/la_lat_if.pdf",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "公式IFで内用液0.75%と旧メーカーを照合。2026年10月1日の承継・販売移管発表があり、写真の撮影メーカーと現行区分の精査が必要。転載許諾未確認。"
+      },
+      {
+        "url": "https://www.teijin-pharma.co.jp/pressrelease/2026/index.html",
+        "kind": "official-transfer-notice",
+        "findings": "2026年10月1日ラキソベロン内用液の承継・販売移管発表へのリンクあり。承継の実施日・承継先までは本調査で未確認。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 30,
+    "productName": "アミティーザカプセル24μg",
+    "searchQueries": [
+      "アミティーザ ヴィアトリス 製品 写真",
+      "site:commons.wikimedia.org アミティーザ"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://dev21.viatris-e-channel.com/viatris-products/di/detail/888172097.html",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "ヴィアトリス系公式ドメインの24μg製剤写真とダウンロード表示を発見。ただしdev21ホストであり通常公開版・写真の転載範囲を確認できず採用しない。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 31,
+    "productName": "リンゼス錠0.25mg",
+    "searchQueries": [
+      "リンゼス錠0.25mg アステラス 写真 著作権",
+      "site:commons.wikimedia.org リンゼス"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.astellas.com/jp/patient-product/lnz.thumb.800.480.png?ck=1759696476",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "アステラスの日本患者向け0.25mgページが検索に現れる。日本製品で公開アプリへ転載可能な写真の許諾未確認。"
+      },
+      {
+        "url": "https://www.astellas.com/jp/terms-of-use",
+        "kind": "terms",
+        "findings": "個人的・非商業目的のコピー等に限定。公開アプリに再配布する許諾は確認できない。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 32,
+    "productName": "ロペミンカプセル1mg",
+    "searchQueries": [
+      "ロペミンカプセル1mg 帝國 写真",
+      "site:commons.wikimedia.org ロペミン"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.teikoku.co.jp/med_database/products/detail/ED145",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "公式に1mgカプセルおよびPTP写真あり。製造販売・販売とも帝國製薬と表示。2025年9月新発売案内あり、旧ヤンセン包装と混同不可。公開転載許諾未確認。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 34,
+    "productName": "ガスターD錠20mg",
+    "searchQueries": [
+      "ガスターD錠20mg LTL 製品 写真",
+      "site:commons.wikimedia.org Gaster"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.ltl-pharma.com/product/gaster/",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "公式にD錠20mg本体・PTP写真あり。普通錠/OD錠/10mgと区別可能だが利用規約は事前書面承諾のない公開転載を許諾していない。Commonsで中国発売Gasterが出るため代用しない。"
+      },
+      {
+        "url": "https://www.ltl-pharma.com/tos/",
+        "kind": "terms",
+        "findings": "本サイト情報の無断転載・複製・再配布を禁止。私的利用等を超える利用には書面による事前承諾を要求。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Category:Famotidine",
+        "kind": "commons-category",
+        "findings": "Gaster Sales In China.jpgや海外ファモチジン製品等あり。日本のガスターD錠20mgとして採用可能な写真は確認できず。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 35,
+    "productName": "ガスモチン錠5mg",
+    "searchQueries": [
+      "ガスモチン錠5mg 住友 製品 写真",
+      "site:commons.wikimedia.org ガスモチン"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://sumitomo-pharma.jp/product/gasmotin/",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "住友公式に5mg本体・PTP写真あり。Commonsにクエン酸モサプリド・ガスモチン.JPGを新規発見したが個別ページ取得失敗。著者・ライセンス・規格・撮影当時メーカーが未確認のため保留。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/Category:Sumitomo_Pharma",
+        "kind": "commons-category",
+        "findings": "クエン酸モサプリド・ガスモチン.JPG（1172×530）が一覧に存在。ファイル単体ライセンスはこのカテゴリ記載から判断できない。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:クエン酸モサプリド・ガスモチン.JPG",
+        "kind": "commons-unresolved-file",
+        "findings": "個別ページ取得失敗。APIはDNSアクセス不可。著者、原画像URL、ライセンスURL、規格、メーカーが揃わないため不採用。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 37,
+    "productName": "アリセプトD錠5mg",
+    "searchQueries": [
+      "アリセプトD錠5mg エーザイ 製品 写真",
+      "site:commons.wikimedia.org Aricept"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://medical.eisai.jp/products/art/art_dt5",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "エーザイ公式にD錠5mg製剤画像ダウンロードあり。公開アプリへの転載許諾未確認。CommonsのAricept10mgは米国NLM由来普通錠で、日本D錠5mgへの代用不可。"
+      },
+      {
+        "url": "https://commons.wikimedia.org/wiki/File:Aricept_10mg_000195lg.jpg",
+        "kind": "commons-rejected-file",
+        "findings": "NLM由来の米国10mg普通錠。国内D錠5mgとは規格・剤形・市場が異なり不採用。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 38,
+    "productName": "メマリーOD錠20mg",
+    "searchQueries": [
+      "メマリーOD錠20mg 第一三共 写真",
+      "site:commons.wikimedia.org メマリー"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.rad-ar.or.jp/siori/search/result?n=38584",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "メーカー提供くすりのしおりで第一三共20mgOD錠を照合。検索の製剤写真の多くは別メーカー後発品。公開転載可能な日本のメマリーOD錠20mgの写真を確認できず。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 39,
+    "productName": "リバスタッチパッチ18mg",
+    "searchQueries": [
+      "リバスタッチパッチ18mg 小野 製品 写真",
+      "site:commons.wikimedia.org リバスタッチ"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.ononavi1717.jp/products/rivastach",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "小野公式に18mg製剤写真・ZIPあり。4.5/9/13.5mgと区別必要。公開アプリへの転載許諾は確認できず。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 47,
+    "productName": "メネシット配合錠100",
+    "searchQueries": [
+      "メネシット配合錠100 オルガノン 製品 写真",
+      "site:commons.wikimedia.org メネシット"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://organonpro.com/ja-jp/menesit/",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "公式に配合錠100の写真・ZIPあり。従来品と変更品が分かれ、250は配合規格も異なる。加工用ダウンロード表示だけで不特定多数への公開転載許諾と扱わない。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 48,
+    "productName": "チラーヂンS錠50μg",
+    "searchQueries": [
+      "チラーヂンS錠50μg あすか 写真 著作権",
+      "site:commons.wikimedia.org チラーヂン"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.pmda.go.jp/PmdaSearch/rdDetail/iyaku/2431004F1056_1",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "PMDAで50μg・あすかを照合。検索で現れた写真の公開転載許諾未確認。政府掲載の外部資料には本文50mgと画像50μgの不一致があり素材として不採用。"
+      },
+      {
+        "url": "https://www.mhlw.go.jp/content/001475071.pdf",
+        "kind": "government-hosted-third-party-report",
+        "findings": "写真に50μg箱があるが本文は50mgと記載。外部NRI資料であり写真の転載許諾は未確認。本文から規格を転記せず不採用。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 50,
+    "productName": "サワシリン錠250",
+    "searchQueries": [
+      "サワシリン錠250 LTL 製品画像",
+      "site:commons.wikimedia.org サワシリン"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.ltl-pharma.com/product/sawacillin/",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "公式に錠250・SP包装写真あり。カプセル250の写真と混同不可。LTL規約により公開転載は事前書面承諾が必要。2026年10月15日包装変更案内もあり。"
+      },
+      {
+        "url": "https://www.ltl-pharma.com/tos/",
+        "kind": "terms",
+        "findings": "本サイト情報の無断転載・複製・再配布を禁止。私的利用等を超える利用には書面による事前承諾を要求。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 51,
+    "productName": "アズノール軟膏0.033%",
+    "searchQueries": [
+      "アズノール軟膏0.033 日本新薬 製品写真",
+      "site:commons.wikimedia.org アズノール"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://www.nippon-shinyaku.co.jp/healthy/shiori.php",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "日本新薬公式に当該製品への案内あり。くすりのしおりでも0.033%を照合。軟膏とうがい液/ST錠の代用不可。公開転載可能な写真・許諾未確認。"
+      },
+      {
+        "url": "https://www.rad-ar.or.jp/siori/search/result?n=8799",
+        "kind": "manufacturer-provided-patient-leaflet",
+        "findings": "日本新薬0.033%軟膏を確認。写真の公開再配信許諾までは確認できない。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  },
+  {
+    "id": 52,
+    "productName": "モビコール配合内用剤LD",
+    "searchQueries": [
+      "モビコール LD EAファーマ 製品 写真",
+      "site:commons.wikimedia.org モビコール"
+    ],
+    "sourcesReviewed": [
+      {
+        "url": "https://medical.eisai.jp/products/mvc/mvc_ld",
+        "kind": "official-product-or-manufacturer-provided",
+        "findings": "公式に日本LDの製剤画像ダウンロードあり。海外MOVICOLと日本LD/HDは区別必要。公開アプリへの転載許諾未確認。"
+      },
+      {
+        "url": "https://med.mochida.co.jp/medicaldomain/gastroenterology/movicol/info/",
+        "kind": "official-product-history",
+        "findings": "2018年承認後2020年LDへ名称変更、HDはLDの2倍量。海外MOVICOLの表示である旨も区別。海外写真の代用はしない。"
+      }
+    ],
+    "decision": "hold",
+    "reason": "調べた範囲では、日本の当該製品・規格・写真のメーカーと、公開アプリへ転載できる利用条件がすべて揃う写真を確認できていない。写真が存在しないという結論ではない。",
+    "checkedDate": "2026-10-21"
+  }
+]
